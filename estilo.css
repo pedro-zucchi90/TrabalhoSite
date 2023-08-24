@@ -1,0 +1,146 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: "merry";
+    src: url("Merriweather-Regular.ttf");
+}
+
+body {
+    background-color: #ccc;
+}
+
+header {
+    background-color: rgb(26, 26, 26);
+}
+
+.logo {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.botao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #ccc;
+    text-decoration: none;
+
+}
+
+.botao1 {
+    margin-left: 600px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+
+.botao2 {
+    margin-left: 1200px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.hollow {
+    margin-left: 100px;
+}
+
+.sobre h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.separação {
+    margin-top: 100px;
+    height: 5px;
+    background-color: #000000;
+    border: 0px;
+    padding: 0px;
+}
+
+.imghollow {
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+
+.historia{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.historia h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+.histo{
+    font-size: 30px;
+    max-width: 500px;
+}
+
+.historia img{
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: 800px;
+    margin-top: -450px;
+}
+
+.mapa{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.mapa h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+.ma{
+    font-size: 30px;
+    max-width: 500px;
+}
+
+.mapa img{
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: 800px;
+    margin-top: -600px;
+    width: 900px;
+    height: 100%;
+}
+
+.personagem{
+    margin-left: 100px;
+    margin-top: 125px;
+}
+.personagem h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+.perso{
+    font-size: 30px;
+    max-width: 500px;
+}
+
+.personagem img{
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: 800px;
+    margin-top: -550px;
+    width: 900px;
+    height: 100%;
+}
+
+.conclusao{
+    padding: 0;
+    font-size: 30px;
+    font-family: "merry";
+    max-width: 800px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 70px;
+}

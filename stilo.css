@@ -1,0 +1,159 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: "merry";
+    src: url("Merriweather-Regular.ttf");
+}
+
+body {
+    background-color: #ccc;
+}
+
+header {
+    background-color: rgb(26, 26, 26);
+}
+
+.logo {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.botao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #ccc;
+    text-decoration: none;
+
+}
+
+.botao1 {
+    margin-left: 600px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+
+.botao2 {
+    margin-left: 1200px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.conteudo1 {
+    margin-left: 100px;
+}
+
+.conteudo1 h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-top: 30px;
+}
+
+.ps5 {
+    margin: 30px 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: "merry";
+}
+
+.ps5 li {
+    margin-bottom: 20px;
+}
+
+.ps5img {
+    width: 750px;
+    height: 600px;
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -600px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #000000;
+}
+
+.separação {
+    margin-top: 100px;
+    height: 5px;
+    background-color: #000000;
+}
+
+.conteudo2 {
+    margin-top: 50px;
+    margin-right: 100px;
+    text-align: right;
+}
+
+.conteudo2 h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-top: 30px;
+}
+
+.xbox {
+    margin: 30px 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: "merry";
+}
+
+.xbox li {
+    margin-bottom: 20px;
+}
+
+.xboximg {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: -90%;
+    margin-top: -525px;
+}
+
+.separação {
+    margin-top: 100px;
+    height: 5px;
+    background-color: #000000;
+}
+
+.conteudo3 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.conteudo3 h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-top: 30px;
+}
+
+.nintendo {
+    margin: 30px 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: "merry";
+}
+
+.nintendo li {
+    margin-bottom: 20px;
+}
+
+.nintendoimg {
+    width: 850px;
+    height: 600px;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -600px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #000000;
+
+}

@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: "merry";
+    src: url("Merriweather-Regular.ttf");
+}
+body{
+    background-color: #ccc;
+}
+header{
+    background-color: rgb(26, 26, 26);
+}
+
+.logo{
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.botao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #ccc;
+    text-decoration: none;
+    
+}
+
+.botao1{
+    margin-left: 600px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+
+.botao2{
+    margin-left: 1200px;
+    margin-top: -150px;
+    position: absolute;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.apresentacao h1{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+.apresentacao p{
+    font-size: 30px;
+    max-width: 500px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.lugar{
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: 1000px;
+    margin-top: -600px;
+    width: 700px;
+    height: 100%;
+}
+
+.info {
+    margin-top: 50px;
+    margin-right: 100px;
+    text-align: right;
+}
+
+.info h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-top: 30px;
+}
+
+.info p {
+    font-size: 30px;
+    margin-top: 10px;
+    max-width: 500px;
+    margin-left: 1300px;
+}
+
+.consoles {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #000000;
+    margin-left: -90%;
+    margin-top: -475px;
+}
